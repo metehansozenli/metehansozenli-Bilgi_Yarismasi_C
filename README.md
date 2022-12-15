@@ -1,1 +1,1 @@
-# metehansozenli-Kim_Milyoner_Olmak_Ister_Oyunu_C
+# metehansozenli-Bilgi_Yarismasi_C
