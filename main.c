@@ -10,8 +10,8 @@
 void fill_Questions(char questions[][300]){
     strcpy(questions[0],"Cekimleri 46 hafta suren ve 'En uzun kesintisiz film cekimi' unvaniyla Guinness Dunya Rekorlarina giren film hangisidir?\nA- Kis Uykusu\nB- Ucuz Roman\nC- Gozleri Tamamen Kapali\nD- Agir Roman\n");
     strcpy(questions[1],"Hangisi 'G.O.R.A.' adli filmde gecen bir repliktir?\nA- Zeki Muren de bizi gorecek mi?\nB- Vurucam kirbaci!\nC- Araba nerde? Para nerde?\nD- Dunyalilardan tiskiniyorum!\n");
-    strcpy(questions[2],"Cebelitarik Boğazi hangi ikisini birleştirir?\na- Akdeniz ve Atlas Okyanusu\nb- Atlas Okyanusu ve Büyük Okyanus\nc- Hazar Denizi ve Aral Gölü\nd- Sari Deniz ve Hint Okyanusu\n");
-    strcpy(questions[3],"Shakespeare'in hangi oyunundaki baskarakter oyunun ilerleyen sahnelerinde Ingiltere krali olur?\na- Macbeth\nb- III. Richard---\nc- Othello\nd- Hamlet\n");
+    strcpy(questions[2],"Cebelitarik Boðazi hangi ikisini birleþtirir?\na- Akdeniz ve Atlas Okyanusu\nb- Atlas Okyanusu ve Büyük Okyanus\nc- Hazar Denizi ve Aral Gölü\nd- Sari Deniz ve Hint Okyanusu\n");
+    strcpy(questions[3],"Shakespeare'in hangi oyunundaki baskarakter oyunun ilerleyen sahnelerinde Ingiltere krali olur?\na- Macbeth\nb- III. Richard\nc- Othello\nd- Hamlet\n");
     strcpy(questions[4],"Al Pease, Formula 1 tarihinde, hangi sebepten dolayi yarismadan diskalifiye edilen ilk ve tek sporcudur?\na- Emniyet kemeri takmamak\nb- Cok yavas gitmek\nc- Ehliyetini evde unutmak\nd- Aracta muzik dinlemek\n");
     strcpy(questions[5],"Hangi iki oyuncu, sinema filmlerinin hicbir sahnesinde, nikah masasinda 'gelin ve damat' olarak birlikte gorunmemistir?\na- Gulsen Bubikoglu ve Tarik Akan\nb- Adile Nasit ve Munir Ozkul\nc- Fatma Girik ve Cuneyt Arkin\nd- Meral Zeren ve Kemal Sunal\n");
     strcpy(questions[6],"'Altin Aslan' kazanan bir yonetmen hangi film festivalinin jurisi tarafindan 'En Iyi Yonetmen' secilmistir?\na- Venedik Uluslararasi Film Festivali\nb- Berlin Uluslararasi Film Festivali\nc- Cannes Film Festivali\nd- Antalya Altin Portakal Film Festivali\n");
