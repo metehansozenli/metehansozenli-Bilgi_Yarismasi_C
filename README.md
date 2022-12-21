@@ -1,1 +1,1 @@
-# metehansozenli-Bilgi_Yarismasi_C
+# metehansozenli-Bilgi_Yarismasi_Oyunu_C
